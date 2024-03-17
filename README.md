@@ -1,17 +1,17 @@
 # infosec_cheetbook
-GDB
+# GDB
 https://habr.com/en/articles/535960/ - gdb usage
 https://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 
-APK
+# APK
 https://habr.com/en/articles/780694/ - apk reverse
 
-IDA
+# IDA
 https://habr.com/en/companies/angarasecurity/articles/777648/ - IDA Free usage
 
-r2
+# r2
 https://github.com/radareorg/radare2/blob/master/doc/intro.md
 https://book.rada.re/
 
-ALL_IN_ONE
+# ALL_IN_ONE
 https://habr.com/en/companies/dsec/articles/334832/
