@@ -1,0 +1,8 @@
+version: "2.2"
+services:
+  perm:
+    build: .
+    ports:
+      - "11592:8080"
+    stop_grace_period: 1s
+    restart: unless-stopped

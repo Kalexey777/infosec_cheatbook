@@ -1,0 +1,3 @@
+objdump -tT /usr/lib/x86_64-linux-gnu/libc.so.6 | grep "system" 
+strings -a -t x /lib/x86_64-linux-gnu/libc.so.6 | grep /bin/sh
+
