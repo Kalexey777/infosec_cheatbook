@@ -1,4 +1,4 @@
-# infosec_cheetbook
+# infosec_cheatbook
 # GDB
 https://habr.com/en/articles/535960/ - gdb usage
 
