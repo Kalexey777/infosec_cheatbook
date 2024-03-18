@@ -17,3 +17,6 @@ https://book.rada.re/
 
 # ALL_IN_ONE
 https://habr.com/en/companies/dsec/articles/334832/
+
+# Samba
+https://www.zdnet.com/article/how-to-share-folders-to-your-network-from-linux/
