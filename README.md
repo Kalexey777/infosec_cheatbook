@@ -20,3 +20,4 @@ https://habr.com/en/companies/dsec/articles/334832/
 
 # Samba
 https://www.zdnet.com/article/how-to-share-folders-to-your-network-from-linux/
+https://library.mosse-institute.com/articles/2022/06/linux-exploitation-format-string-vulnerabilities-and-exploitation/linux-exploitation-format-string-vulnerabilities-and-exploitation.html
