@@ -5,7 +5,16 @@ https://habr.com/en/articles/535960/ - gdb usage
 https://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html
 
 # APK
-https://habr.com/en/articles/780694/ - apk reverse
+## Тулзы
+https://habr.com/en/articles/780694/ - apk reverse\
+jadx - decompile .dex to java\
+apkstudio - disassemble apk, edit .smali, build .apk, sign and install it\
+Может быть полезно прокинуть с телефона прокси в burp suite и сниффить трафик, если приложение требует доступа к интернету.\
+Лучше НЕ использовать android studio для эмуляции андроида, по крайней мере у меня(Василия), она работала очень плохо. Проще взять андроид телефон и на нём тестировать пропатченное приложение. Логи можно читать через ```adb logcat```, или его цветные версии. \
+```pm list packages``` выведет список установленных приложений, где можно будет найти наше приложение и его искать в логах
+## Примеры заданий
+Tinkoff CTF - есть демо задания с разборами, на которых можно отработать разные техники, есть просто задания прошлых лет\
+НТО - здесь должна быть ссылка на репозиторий 2 этапа 2023 года. На 1 этапе тоже был реверс в категории ppc, его тоже хорошо бы найти
 
 # IDA
 https://habr.com/en/companies/angarasecurity/articles/777648/ - IDA Free usage
