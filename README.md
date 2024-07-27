@@ -1,4 +1,5 @@
 # infosec_cheatbook
+
 # GDB
 https://habr.com/en/articles/535960/ - gdb usage
 
@@ -15,6 +16,13 @@ apkstudio - disassemble apk, edit .smali, build .apk, sign and install it\
 ## Примеры заданий
 Tinkoff CTF - есть демо задания с разборами, на которых можно отработать разные техники, есть просто задания прошлых лет\
 НТО - здесь должна быть ссылка на репозиторий 2 этапа 2023 года. На 1 этапе тоже был реверс в категории ppc, его тоже хорошо бы найти
+
+# Python reverse
+## Тулзы
+https://github.com/extremecoders-re/pyinstxtractor
+[pycdc](https://github.com/zrax/pycdc)
+## Примеры заданий
+https://github.com/D13David/ctf-writeups/blob/main/osctf24/rev/another_python_game/README.md
 
 # IDA
 https://habr.com/en/companies/angarasecurity/articles/777648/ - IDA Free usage
