@@ -18,9 +18,12 @@ apkstudio - disassemble apk, edit .smali, build .apk, sign and install it\
 ## Примеры заданий
 Tinkoff CTF - есть демо задания с разборами, на которых можно отработать разные техники, есть просто задания прошлых лет\
 НТО - здесь должна быть ссылка на репозиторий 2 этапа 2023 года. На 1 этапе тоже был реверс в категории ppc, его тоже хорошо бы найти\
-RedShift EclipseCTF 2024 quals - афигенный реверс, мне понравилось(p.s. лично я второй таск делал через adb logcat):\
+### RedShift EclipseCTF 2024 quals и другие задачи от МИРЭА
+3 таска - классный реверс, мне понравилось(p.s. лично я делал через adb logcat, правильный конами код выводился в логи):\
+https://github.com/boomgarang/zeroplusctf/blob/main/Reverse/I%20really%20want%20to%20lesson/for_admins/I%20really%20want%20to%20lesson%20(WRITE-UP)%20RU.md\
 https://github.com/Abends2/RedShift.Eclipse.2024.Quals__WriteUps/blob/main/CTF/Tasks/Reverse/KPK%20Scheduler%20Ultra.md\
 https://github.com/o1d-bu7-go1d-CTF/RedShift-Eclipse-2-Quals-2024-Autumn/blob/main/CTF/sources/Reverse/Gradius%20on%20lesson/for_admins/WriteUp.md\
+Задачи отсортированны по сложности
 
 # Python reverse
 ## Тулзы
