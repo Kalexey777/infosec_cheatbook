@@ -49,4 +49,4 @@ https://library.mosse-institute.com/articles/2022/06/linux-exploitation-format-s
 
 # Stego
 ## Audio
-https://github.com/Jpinsoft/DeepSound \
+https://github.com/Jpinsoft/DeepSound
