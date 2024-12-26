@@ -12,6 +12,7 @@ jadx - decompile .dex to java\
 apkstudio - disassemble apk, edit .smali, build .apk, sign and install it\
 https://github.com/Col-E/Recaf - что-то очень мощное, надо посмотреть\
 https://frida.re/docs/examples/android/ - надо посмотреть\
+https://github.com/AndnixSH/APKToolGUI - надо посмотреть\
 Может быть полезно прокинуть с телефона прокси в burp suite и сниффить трафик, если приложение требует доступа к интернету.\
 Лучше НЕ использовать android studio для эмуляции андроида, по крайней мере у меня(Василия), она работала очень плохо. Проще взять андроид телефон и на нём тестировать пропатченное приложение. Логи можно читать через ```adb logcat```, или его цветные версии. \
 ```adb shell```\
@@ -20,6 +21,7 @@ https://frida.re/docs/examples/android/ - надо посмотреть\
 ## Примеры заданий
 Tinkoff CTF - есть демо задания с разборами, на которых можно отработать разные техники, есть просто задания прошлых лет\
 НТО - здесь должна быть ссылка на репозиторий 2 этапа 2023 года. На 1 этапе тоже был реверс в категории ppc, его тоже хорошо бы найти\
+https://codeby.net/threads/writeup-android-uncrackable-l3-mas-owasp-org.83843/ - хорошая статья (патчинг smali, обход антидебаггинга в библиотеках под разные архитектуры дебаг одной из них через IDA)\
 ### RedShift EclipseCTF 2024 quals и другие задачи от МИРЭА
 3 таска - классный реверс, мне понравилось(p.s. лично я делал через adb logcat, правильный конами код выводился в логи):\
 https://github.com/boomgarang/zeroplusctf/blob/main/Reverse/I%20really%20want%20to%20lesson/for_admins/I%20really%20want%20to%20lesson%20(WRITE-UP)%20RU.md \
