@@ -11,6 +11,7 @@ https://habr.com/en/articles/780694/ - apk reverse\
 jadx - decompile .dex to java\
 apkstudio - disassemble apk, edit .smali, build .apk, sign and install it\
 https://github.com/Col-E/Recaf - что-то очень мощное, надо посмотреть\
+https://frida.re/docs/examples/android/ - надо посмотреть\
 Может быть полезно прокинуть с телефона прокси в burp suite и сниффить трафик, если приложение требует доступа к интернету.\
 Лучше НЕ использовать android studio для эмуляции андроида, по крайней мере у меня(Василия), она работала очень плохо. Проще взять андроид телефон и на нём тестировать пропатченное приложение. Логи можно читать через ```adb logcat```, или его цветные версии. \
 ```adb shell```\
